@@ -61,4 +61,5 @@ header {
 #greetingBox {
     color: rgb(4, 22, 37);
     font-size: 22px;
+    font-family: "Lucida Console", Courier, monospace;
 }
